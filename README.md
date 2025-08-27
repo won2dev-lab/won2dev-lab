@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFFFFF&color=gradient&customColorList=0,2,5&animate=true" />
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFFFFF&color=gradients&grad1=FF5733&grad2=FFC300&animate=true" />
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFFFFF&color=gradients&grad1=FF5733&grad2=FFC300&animate=true" />
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&color=FF5733&animate=true" />
