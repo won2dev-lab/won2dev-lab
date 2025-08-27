@@ -32,5 +32,3 @@
 </div>
 
 ###
-
-![Won2Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=won2dev-lab&show_icons=true)
