@@ -30,7 +30,8 @@
     </td>
     <td>
       <!-- Right: Streak Graph -->
-      <img src="https://streak-stats.demolab.com?user=won2dev-lab&mode=daily&theme=dark&background=0d1117&ring=FF5733&fire=FFBD33&currStreakLabel=FFFFFF&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
+      <img src="https://streak-stats.demolab.com?user=won2dev
+      -lab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </td>
   </tr>
 </table>
