@@ -1,4 +1,4 @@
-## Welcome to my profile!
+## ✋ Welcome to my profile!
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFA07A&color=gradient&customColorList=0,2,5&animate=true" />
 
 <div align="center">
