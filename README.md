@@ -37,5 +37,5 @@
 <img src="https://raw.githubusercontent.com/won2dev-lab/won2dev-lab/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="500" />
 
 <!-- PetMan 활성시간 애니메이션 -->
-<img src="https://raw.githubusercontent.com/your-username/petman-repo/main/petman-activity.gif" alt="PetMan Activity" width="500" />
+<img src="https://raw.githubusercontent.com/won2dev-lab/petman-repo/main/petman-activity.gif" alt="PetMan Activity" width="500" />
 
