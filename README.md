@@ -1,4 +1,10 @@
 ## ✋ Welcome to my profile!
+
+<p align="center">
+Backend-focused Developer using Go, building scalable systems  
+Also developing web interfaces with Next.js
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFA07A&color=gradient&customColorList=0,2,5&animate=true" />
 
 <div align="center">
