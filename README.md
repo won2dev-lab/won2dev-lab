@@ -15,8 +15,6 @@ Also developing web interfaces with Next.js
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFA07A&color=gradient&customColorList=0,2,5&animate=true" />
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
   <img width="12" />
