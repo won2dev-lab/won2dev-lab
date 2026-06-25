@@ -1,9 +1,7 @@
-## ✋ Welcome to my profile!
+## ✋ Hello, World! I'm Dongwon.
 
-<p align="center">
-Backend-focused Developer using Go, building scalable systems  
-Also developing web interfaces with Next.js
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=19&color=F3F7EF&repeat=false&width=1000&center=true&separator=%3C&lines=Backend-focused+Developer+using+Go%2C+building+scalable+systems;+++Also+developing+web+interfaces+with+Next.js" alt="Typing SVG" /></a>
+
 
 <div align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=won2dev-lab&utm_content=farm">
@@ -15,6 +13,8 @@ Also developing web interfaces with Next.js
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
   <img width="12" />
@@ -24,13 +24,6 @@ Also developing web interfaces with Next.js
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=won2dev-lab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 
 ###
 
