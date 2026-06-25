@@ -5,6 +5,14 @@ Backend-focused Developer using Go, building scalable systems
 Also developing web interfaces with Next.js
 </p>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=won2dev-lab&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/won2dev-lab"
+  width="600"
+  height="300"
+/>
+</a>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=won2dev-lab&fontSize=70&stroke=FFA07A&color=gradient&customColorList=0,2,5&animate=true" />
 
 <div align="center">
